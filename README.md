@@ -33,7 +33,7 @@ here is the project preview:
 
 ## IDE & Programming language 🔧
 
-* Kotlin.
+* Kotlin
 * Android Studio
 
 ## Running The App 🔌
