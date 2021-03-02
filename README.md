@@ -33,8 +33,9 @@ here is the project preview:
 
 ## IDE & Programming language 🔧
 
-This Application was devlopped with Kotlin.
+* Kotlin.
+* Android Studio
 
 ## Running The App 🔌
 
-No requirements you just have to set your device 📱 & click that green button ▶️ then fill your infos & check your body state 😃
+No requirements you just have to set your device 📱 & click that pink button ✅ then fill your infos & check your body state 😃
