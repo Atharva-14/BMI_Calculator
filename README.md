@@ -1,5 +1,3 @@
-# BMI Calculator 📱 📏 ✔️ ⛔️ ⚠️
-
 ## Project Idea 💡 🌟
 
 This project consist on creating an Android App that calculates BMI ( Body Mass Index ) & then report its status with some advices to the user ...
