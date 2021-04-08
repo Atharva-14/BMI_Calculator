@@ -15,21 +15,6 @@ In this project I tried to simplify all the process using the most simple formul
    * Low    : bmi  < 18.5 
    * Normal : 18.4 < bmi < 25.1
    * High   : bmi  > 25 
-   
-
-## Screenshots 📷
-
-here is the project preview:
-
-| Main UI  | Reporting BMI State (case Normal) |
-| ------------- |:-------------:|
-| ![alt text](https://github.com/Atharva-14/BMI_Calculator/blob/master/Images/MainScreen.jpg "first screen" )| ![alt text](https://github.com/Atharva-14/BMI_Calculator/blob/master/Images/Normal.jpg "Normal BMI" ) |
-
-
-| Reporting BMI State (case OverWeight) | Reporting BMI State (case UnderWeight) |
-| ------------- |:-------------:|
-| ![alt text](https://github.com/Atharva-14/BMI_Calculator/blob/master/Images/OverWeight.jpg "high BMI" ) | ![alt text](https://github.com/Atharva-14/BMI_Calculator/blob/master/Images/UnderWeight.jpg "low BMI" ) |
-
 
 ## IDE & Programming language 🔧
 
